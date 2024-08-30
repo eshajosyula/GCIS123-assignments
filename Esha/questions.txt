@@ -1,0 +1,16 @@
+Esha Josyula
+
+Q : what is my favorite color?
+A : pink
+
+Q : what is my favorite fruit?
+A : strawberry
+
+Q : what is my favorite drink?
+A : mango lassi
+
+=======================================================================
+
+Q : What happened when trying to push the empty directory called Esha?
+
+A : Nothing happened, git status kept returning the message saying everything was up to date, and it didn't push anything.
