@@ -14,10 +14,10 @@ def prompt_and_print():
     mult = num1 * num2
     divd = num1 / num2
 
-    print(num1, " + ", num2, " = ", added) 
+    print(num1, " + ", num2, " = ", added)
     print(num1, " - ", num2, " = ", subbed)
     print(num1, " * ", num2, " = ", mult)
-    print(num1, "/", num2, " = ", divd )
-    
+    print(num1, "/", num2, " = ", divd)
+
 
 prompt_and_print()
