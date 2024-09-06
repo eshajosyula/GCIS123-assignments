@@ -13,4 +13,15 @@ A : mango lassi
 
 Q : What happened when trying to push the empty directory called Esha?
 
-A : Nothing happened, git status kept returning the message saying everything was up to date, and it didn't push anything.
+A : Nothing happened, git status kept returning the message saying everything was up to date, and it didn't push anything
+The following was the message returned : 
+
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+eshajosyula@Eshas-MacBook-Air Esha % git add
+Nothing specified, nothing added.
+
+Q : What happened when I moved the questions.txt into Esha and then pushed?
+
+A : The repository was pushed successfully, but when I was staging my commit, it indicated that the file was essentially duplicated into Esha and then the original copy was deleted from the initial cloned repo. I have only one questions.txt file present, and the new directory is present. I think that what happens when you do the mv function is that you are just chnging the name of the directory.
